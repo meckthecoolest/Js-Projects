@@ -11,3 +11,7 @@ Project 2 : Quiz app
 By building this i refreshed my skills in DOM manipulation 
 
 ![quiz gif](https://user-images.githubusercontent.com/45584722/201281285-1293fde7-ea23-49a1-a6f8-f90ce3b19eb6.gif)
+
+Project 3 : Products Filter using search input, categories and price range 
+
+![product](https://user-images.githubusercontent.com/45584722/201456981-4f753179-ca3b-473e-9ca6-91751088c320.gif)
